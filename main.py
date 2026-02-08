@@ -1,8 +1,6 @@
-
-
-
 from src.logger import setup_logger
 from src.analyzer import LogAnalyzer
+from src.reader import LogReader
 
 setup_logger()
 
